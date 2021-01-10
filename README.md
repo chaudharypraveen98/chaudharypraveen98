@@ -3,13 +3,15 @@
 [![Website](https://img.shields.io/website?label=chaudharypraveen98&style=for-the-badge&url=https://chaudharypraveen98.github.io/home)](https://chaudharypraveen98.github.io/home)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Praveen48828440?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/Praveen48828440&screen_name=Praveen48828440)
 
-## I'm a Full Stack Developer!!
+## I'm a Full Stack Developer and Pentester!!
 
 - 🔭 I’m currently working on Smart parking solutions
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2020 Goals: To learn Blockchain
+- 💬 Ask me about Pokemons
+- 🥅 2021 Goals: To learn UI & UX design
 - ⚡ Fun fact: I love to play table tennis and basketball
+- 📫 How to reach me: https://chaudharypraveen98.github.io/home/
 
 ### Spotify Playing 🎧
 
@@ -47,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chaudharypraveen98&show_icons=true&theme=radical" />
+  <img align="left" alt="Praveen stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chaudharypraveen98&show_icons=true&theme=radical" />
 
 </details>
 
