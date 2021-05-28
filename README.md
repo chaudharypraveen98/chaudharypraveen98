@@ -11,7 +11,7 @@
 - 💬 Ask me about Pokemons
 - 🥅 2021 Goals: To learn UI & UX design
 - ⚡ Fun fact: I love to play table tennis and basketball
-- 📫 How to reach me: https://chaudharypraveen98.github.io/home/
+- 📫 How to reach me: https://chaudharypraveen98.github.io/
 
 ### Spotify Playing 🎧
 
