@@ -1,7 +1,7 @@
 ### Hi there, I'm [Praveen Chaudhary][website] 👋
 
 [![Website](https://img.shields.io/website?label=chaudharypraveen98&style=for-the-badge&url=https://chaudharypraveen98.github.io)](https://chaudharypraveen98.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Praveen48828440?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/chaudpraveen98&screen_name=chaudpraveen98)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Praveen48828440?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/praveenchaud98&screen_name=praveenchaud98)
 
 ## I'm a Full Stack Developer and Pentester!!
 
