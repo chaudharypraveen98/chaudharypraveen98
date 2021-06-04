@@ -54,9 +54,9 @@
 </details>
 
 [website]: https://chaudharypraveen98.github.io/home
-[twitter]: https://mobile.twitter.com/Praveen48828440
+[twitter]: https://mobile.twitter.com/praveenchaud98
 [instagram]: https://www.instagram.com/praveen_chaudhary150
-[linkedin]: https://www.linkedin.com/in/praveen-c-03bb3a110
+[linkedin]: https://www.linkedin.com/in/chaudharypraveen98
 
 
 <!--
