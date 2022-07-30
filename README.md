@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=chaudharypraveen98&style=for-the-badge&url=https://chaudharypraveen98.github.io)](https://chaudharypraveen98.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chaudhpraveen98?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/chaudhpraveen98&screen_name=chaudhpraveen98)
 
-## I'm a Full Stack Developer and Pentester!!
+## I'm a simple developer trying to learn something new everyday!!
 
-- 🔭 I’m currently working on Smart parking solutions
+- 🔭 I’m currently working on Multi Platform powerful ERP solution
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
-- 💬 Ask me about Pokemons
-- 🥅 2021 Goals: To learn UI & UX design
+- 💬 Ask me about [decentralized cloud](https://akash.network/)
+- 🥅 2022 Goals: To learn Web Assembly in Rust
 - ⚡ Fun fact: I love to play table tennis and basketball
 - 📫 How to reach me: https://chaudharypraveen98.github.io/
 
